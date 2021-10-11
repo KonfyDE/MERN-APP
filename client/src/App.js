@@ -24,10 +24,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Mern-app</h1>
+        <h1>KONFY MVP</h1>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
           className="App-link"
