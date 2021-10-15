@@ -2,7 +2,7 @@
 
 # MERN App
 
-This repository contains a simple MERN app as part of the **Deploying a Production ready React-Express App on EC2 with CI/CD** gist tutorial which you can find [here](https://gist.github.com/rmiyazaki6499/b564b40e306707c8ff6ca9c67d38fb6f)
+This repository contains a simple MERN app as part of the **Deploying a Production ready React-Express App on EC2 with CI/CD** 
 
 ## Table of Contents
 
@@ -13,7 +13,6 @@ This repository contains a simple MERN app as part of the **Deploying a Producti
   - [Build and Run the Container](#build-and-run-the-container)
   - [Cleaning up the Container and Image](#cleaning-up-the-container-and-image)
 - [Setting up the Mern-app project manually](#setting-up-the-mern-app-project-manually)
-- [Authors](#authors)
 
 ---
 
@@ -162,8 +161,4 @@ React then will create a `build` directory with a production build of your app w
 [Back to Table of Contents](#table-of-contents)
 
 
-## Author
 
-Created by:
-
-- [Ryuichi Miyazaki](https://github.com/rmiyazaki6499)
